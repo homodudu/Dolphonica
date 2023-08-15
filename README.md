@@ -1,5 +1,7 @@
 # Dolphonica
 
+![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/COVER.png)
+
 ## Overview
 Dolphonica is an immersive Virtual Reality auditory-visual gaming experience.
 
@@ -9,14 +11,20 @@ The aim of the game is to guide the dolphin through a sequence of rings. The rin
 ## Audio
 The music and sound effects were created in Ableton. 
 
-https://github.com/homodudu/Dolphonica/blob/master/RESOURCES/AUDIO.png
+![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/AUDIO.png)
 
 - I composed an ambient house themed track, that provides an escalating tempo. 
 - The SFX are either percussive elements or electronic sounds that were pitched melodically. 
 
 ## Visuals
+![alt text](https://github.com/homodudu/Dolphonica/blob/master/RESOURCES/DEMO.png)
+The gameplay and reactive visuals were created in Unity. The dolphin passes through rings that pulse to the 4/4 time signature of the score. The concentric circles in the background are beat synchronised musical layers (e.g. the blue circle corresponds to the shaker track of the musical score).  
 
-## The gameplay and reactive visuals were created in Unity. The dolphin passes through rings that pulse to the 4/4 time signature of the score. The concentric circles in the background are beat synchronised musical layers (e.g. the blue circle corresponds to the shaker track of the musical score).  
+![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/SC_1.png)
+![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/SC_2.png)
+
+
+
 
 
 ## Controls 
