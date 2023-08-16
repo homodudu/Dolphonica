@@ -3,7 +3,9 @@
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/COVER.png)
 
 ## Overview
-Dolphonica is a virtual reality demo that was showcased at a digital show and tell event in 2019. As a dolphin, the player travels through a futuristic "space aquatic" environment. The game uses adaptive audio and beat synchronised visuals to create an immersive, auditory-visual experience. 
+Dolphonica is a virtual reality demo that was showcased at a digital show and tell event in 2019. As a dolphin, the player travels through a futuristic "space aquatic" environment, navigating past obstacles. The game uses adaptive audio and beat synchronised visuals to create an immersive, auditory-visual experience. 
+
+Dolphonica explores the positive psychological concept of flow, a mental state in which a person is fully immersed in their activity, usually at peak performance. Successful level navigation builds up a flow meter which temporarily changes the game aesthetics and rewards the player with invincibility.
 
 ## Gameplay
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/GPLAY.png)
@@ -15,8 +17,7 @@ The music and sound effects were created in Ableton.
 
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/AUDIO.png)
 
-- I composed an ambient house themed track, that provides an escalating tempo. 
-- The SFX are either percussive elements or electronic sounds that were pitched melodically. 
+The score consists of two themes. The main theme is an ambient house style track with an escalating tempo. The flow theme - triggered when the player passes through a target number of rings successfully and becomes invincible - is a stripped down version of the main theme. The SFX, which are beat synchronised, are either percussive elements or electronic sounds that were pitched melodically. 
 
 ## Visuals
 The gameplay and reactive visuals were created in Unity. 
