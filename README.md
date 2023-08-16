@@ -3,7 +3,7 @@
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/COVER.png)
 
 ## Overview
-Dolphonica is an immersive Virtual Reality auditory-visual gaming experience.
+Dolphonica is a virtual reality demo that was showcased at a digital show and tell event in 2019. As a dolphin, the player travels through a futuristic "space aquatic" environment. The game uses adaptive audio and beat synchronised visuals to create an immersive, auditory-visual experience. 
 
 ## Gameplay
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/GPLAY.png)
@@ -34,7 +34,8 @@ The gameplay and reactive visuals were created in Unity.
 View game manual here: [link](https://github.com/homodudu/Dolphonica/blob/master/RESOURCES/Delphonica%20Game%20Manual.pdf)
 
 ## Demo
-![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/DEMO.png)
+![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/DEMO_1.png)
+![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/DEMO_2.png)
 A video demonstration can be found on my personal website: [link](https://www.homodudu.com/)
 
 ## Author
