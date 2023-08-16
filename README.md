@@ -5,7 +5,7 @@
 ## Overview
 Dolphonica is a virtual reality demo that was showcased at a digital show and tell event in 2019. As a dolphin, the player travels through a futuristic "space aquatic" environment, navigating past obstacles. The game uses adaptive audio and beat synchronised visuals to create an immersive, auditory-visual experience. 
 
-Dolphonica explores the positive psychological concept of [flow](https://www.psychologytoday.com/us/basics/flow), a mental state in which a person is fully immersed in their activity, usually at peak performance. Successful level navigation builds up a flow meter which temporarily changes the game aesthetics and rewards the player with invincibility.
+Dolphonica explores the positive psychological concept of flow - [link](https://www.psychologytoday.com/us/basics/flow) - a mental state in which a person is fully immersed in their activity, usually at peak performance. Successful level navigation builds up a flow meter which temporarily changes the game aesthetics and rewards the player with invincibility.
 
 ## Gameplay
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/GPLAY.png)
