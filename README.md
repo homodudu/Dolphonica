@@ -20,9 +20,7 @@ The music and sound effects were created in Ableton.
 The score consists of two themes. The main theme is an ambient house style track with an escalating tempo. The flow theme - triggered when the player passes through a target number of rings successfully and becomes invincible - is a stripped down version of the main theme. The SFX, which are beat synchronised, are either percussive elements or electronic sounds that were pitched melodically. 
 
 ## Visuals
-The gameplay and reactive visuals were created in Unity. 
-
-The dolphin passes through rings that pulse to the 4/4 time signature of the score. 
+The gameplay and reactive visuals were created in Unity. The dolphin passes through rings that pulse to the 4/4 time signature of the score. 
 
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/SC_1.png)
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/SC_2.png)
