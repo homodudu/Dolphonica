@@ -22,12 +22,12 @@ The score consists of two themes. The main theme is an ambient house style track
 ## Visuals
 The gameplay and reactive visuals were created in Unity. 
 
-- The dolphin passes through rings that pulse to the 4/4 time signature of the score. 
+The dolphin passes through rings that pulse to the 4/4 time signature of the score. 
 
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/SC_1.png)
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/SC_2.png)
 
-- The concentric circles in the background are beat synchronised musical layers (e.g. the blue circle corresponds to the shaker track of the musical score).  
+The concentric circles in the background are beat synchronised musical layers (e.g. the blue circle corresponds to the shaker track of the musical score).  
 
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/PART_FX.png)
 
@@ -40,4 +40,4 @@ View game manual here: [link](https://github.com/homodudu/Dolphonica/blob/master
 A video demonstration can be found on my personal website: [link](https://www.homodudu.com/)
 
 ## Author
-- [@homodudu](https://github.com/homodudu)
+[@homodudu](https://github.com/homodudu)
