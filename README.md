@@ -25,7 +25,7 @@ The gameplay and reactive visuals were created in Unity. The dolphin passes thro
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/SC_1.png)
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/SC_2.png)
 
-The concentric circles in the background are beat synchronised musical layers (e.g. the blue circle corresponds to the shaker track of the musical score).  
+The concentric rings of circles in the background are beat synchronised musical layers (e.g. the blue circle corresponds to the shaker track of the musical score).  
 
 ![alt text](https://github.com/homodudu/Dolphonica/blob/master/IMAGES/PART_FX.png)
 
